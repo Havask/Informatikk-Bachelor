@@ -3,6 +3,17 @@
 Computer Science at UiT
 =======================================
 
+## Course Repository 📂
+
+This repository contains a structured set of folders for various courses. However, the actual course materials are **not publicly available** to maintain academic integrity and prevent plagiarism
+
+### 🔒 Accessing Course Content
+If you wish to access the actual content, please contact me, and I will send you an invite.
+
+### 📩 Request Access
+To request access, reach out via:
+- Email: havard.skjerstein@gmail.com
+
 This repository contains course materials and resources for the following courses:
 
 1. INF-1101 Datastrukturer og Algoritmer
